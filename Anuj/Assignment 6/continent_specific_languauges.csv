@@ -1,15 +1,36 @@
-,continents,languauges
+,continents,train,validation,test
 0,Asia,"['gugah aku jam sanga esuk dina jumat' 'nyetel weker rong jam seko saiki'
- 'olly meneng o' ... 'vui lòng trả lời email tôi vừa đọc'
- 'vũ có viết gì cho tôi hôm nay không' 'địa chỉ của tuấn là gì']"
+ 'olly meneng o' ... 'những thư điện tử nào là mới'
+ 'tôi có thư điện tử mới nào từ huy không' 'kiểm tra email của huy']","['tulung gawe mati lampu' 'redupke lampu ing bale'
+ 'gawe kamar luwih peteng' ... 'vui lòng trả lời email tôi vừa đọc'
+ 'vũ có viết gì cho tôi hôm nay không' 'địa chỉ của tuấn là gì']","['gugah aku jam lima esuk minggu iki' 'meneng'
+ 'jambon iku kabeh kita butuh' ...
+ 'tôi có thư điện tử nào mới từ vy không'
+ 'báo tôi khi huy gửi thư điện tử cho tôi' 'hùng có gửi tôi email không']"
 1,Africa,"['maak my wakker nege-uur v. m. op vrydag'
  ""stel 'n alarm vir twee ure van nou af"" 'janneman stilte' ...
+ 'barua pepe zipi ni mpya' 'nina barua pepe mpya kutoka kwa asha'
+ 'angalia barua pepe kutoka kwa juma']","['skakel die ligte af asseblief' 'verdof die ligte in die gang'
+ 'maak die vertrek donkerder' ...
  'tafadhali jibu barua pepe niliyosoma hivi punde'
- 'je juma ameniandikia leo' 'ni anwani gani ya asha']"
+ 'je juma ameniandikia leo' 'ni anwani gani ya asha']","['maak my wakker om vyf v. m. die week' 'stil'
+ 'pienk is al wat ons nodig het' ...
+ 'nina barua pepe yoyote mpya kutoka kwa juma'
+ 'nijulishe joshua anaponitumia barua pepe' 'amenitumia barua pepe asha']"
 2,Europe,"['væk mig klokken ni fredag' 'sæt en alarm til to timer fra nu'
- 'olly stille' ... ""ymateb i'r ebost dw'i newydd derbyn""
+ 'olly stille' ... ""pa ebyst sy'n newydd""
+ 'a oes gennyf unrhyw ebyst newydd oddi wrth john'
+ 'gwiriwch ebost wrth john']","['slå lysene fra tak' 'dæmp lyset i entreen' 'gør et værelse mørkere' ...
+ ""ymateb i'r ebost dw'i newydd derbyn""
  'wnaeth bert ysgrifennu ataf i heddiw'
- ""beth yw'r cyfeiriad ar gyfer alex""]"
+ ""beth yw'r cyfeiriad ar gyfer alex""]","['væk mig klokken fem denne uge' 'stille' 'pink er alt vi har brug for'
+ ... 'a oes gennyf unrhyw ebost newydd oddi wrth jac'
+ 'hysbysa fi pan fod arwel yn fy ebostio fi'
+ 'ydy john wedi anfon ebost i fi']"
 3,North america,"['wake me up at nine am on friday' 'set an alarm for two hours from now'
- 'olly quiet' ... 'please respond to the email i just read'
- 'did bert write me today' ""what's the address for alex""]"
+ 'olly quiet' ... 'what emails are new' 'do i have new emails from john'
+ 'check email from john']","['turn the lights off please' 'dim the lights in the hall'
+ 'make a room darker' ... 'please respond to the email i just read'
+ 'did bert write me today' ""what's the address for alex""]","['wake me up at five am this week' 'quiet' 'pink is all we need' ...
+ 'do i have any new email from joe' 'notify me when joshua emails me'
+ 'has john sent me an email']"
